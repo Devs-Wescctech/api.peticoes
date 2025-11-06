@@ -1,4 +1,0 @@
-{
-  "example1": "postgresql+psycopg2://postgres:postgres@db:5432/peticoes_example1",
-  "example2": "postgresql+psycopg2://postgres:postgres@db:5432/peticoes_example2"
-}
